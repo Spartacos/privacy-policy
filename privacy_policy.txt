@@ -1,0 +1,114 @@
+Privacy Policy
+
+	This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Application.
+	This Privacy Policy is in full compliance with the GDPR in EU, COPPA in the US.
+	We encourage you to review the Privacy Policy whenever you access our apps to stay informed about how we process your personal data and how you can protect your privacy.
+
+DEVELOPER built the Armenian Alphabet 1.03 app as an Ad free app. This app is provided by at no cost and is intended for use as is.
+
+1. Overview
+
+The app DOES NOT use advertising and in app payments. This app does not collect and share personal information. The app does not use third party libraries for advertising which may collect and share personal information with third
+parties.
+
+1.1 Children
+Child-direct apps
+This app is targeted directly to children, that is specified in Google Play store publishing information. In this app we do not collect, do not process and do not share any Personal Information of users, including advertising ID.
+
+
+2. Collecting and Sharing Your Information
+
+We do not collect any Personal Information about you, which is the type of information that specifically identifies you personally and/or can be used alone to contact you online or offline, such as your full name, physical address, email address, telephone number, photograph, precise geolocation information, credit card information and user name(s).
+
+The application does not collect or use or share any personal information with third parties.
+
+2.1 Information we get through other sources
+If you submit information through our website or email we can not control type of the info you submit and privacy level of such information.
+
+3. What information are collected and why
+
+3.1 AdMob
+
+Armenian Alphabet 1.03 application does not use AdMob, Google's mobile app advertising platform designed specifically for app developers.
+
+Application does not collect any Personal Data, including:
+* Online identifiers, including cookie identifiers
+* IP addresses
+* Device identifiers
+* Client identifiers 
+* unique device identifiers for advertising (Google Advertiser ID or IDFA, for example).
+
+3.2 Google Play Services
+
+Google Play Services offers APIs and security services to the Android developer ecosystem.
+Google acts as a data controller for any personal data processed in Google Play Services,
+and offers user notices and consents about the use of personal data in the service’s user
+interface in Android.
+
+Collected informations:
+* Device information
+* Log information
+* Location information
+* Unique application numbers
+* Local storage
+* Cookies and similar technologies
+
+Google use the collected information to provide, maintain, protect and improve Google's
+services, to develop new ones, and to protect Google and the users. Google also use this
+information to offer you tailored content – like giving you more relevant search results
+and ads.
+
+Online resources:
+* Google Terms of Service      https://policies.google.com/terms
+* Google Privacy Policy        https://policies.google.com/privacy
+
+
+4. Security
+
+I am striving to use commercially acceptable means of protecting your Personal
+Information. But remember that no method of transmission over the internet, or method of 
+electronic storage is 100% secure and reliable, and I cannot guarantee its absolute
+security.
+
+
+5. Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you 
+will be directed to that site. Note that these external sites are not operated by me.
+Therefore, I strongly advise you to review the Privacy Policy of these websites. I have 
+no control over and assume no responsibility for the content, privacy policies, or 
+practices of any third-party sites or services.
+
+
+6. Processing and usage of information
+This application is intended for the age 3+ . Application does NOT use or process any personal Information.
+
+Non-personal Information we use:
+to monitor and analyze general statistics about distribution of the app: audience, countries, devices, installs and sessions amounts, and maintain and develop the app based on this experience;
+to monitor and analyze trends, usage and activities in connection with the app;
+Processing of Directly-sent information
+As mentioned above we can get unregulated data and information from the users by email or through the website contact form. Mostly we ignore and do not process any Personal Information from such requests, only analyse some general feedback about our apps, complaints and recommendations to improve quality of our apps. But in special cases, including support requests, any kind of complaints about our app- we can ask user and use required Personal Information to resolve an issue and satisfy the user.
+
+
+7. Distribution
+
+The only official channel for distribution of this app are:
+* Google Play Store                https://play.google.com/
+
+Any other mode of distribution is not official and thus, is not maintained by the developer.
+This privacy policy is effective to distribution made on official channel only.
+
+
+8. Changes to This Privacy Policy
+
+This policy may be updated from time to time.
+
+
+Contact me
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to
+contact me.
+
+[gtsfarlink@gmail.com]
+
